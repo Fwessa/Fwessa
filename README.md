@@ -9,7 +9,7 @@
   
 <br/>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/luisa-dala-b53341132" target="_blank">
+<a href="[https://linkedin.com/in/www.linkedin.com/in/luisa-dala-b53341132](https://www.linkedin.com/in/luisa-dala-b53341132/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Fwessa" target="_blank">
