@@ -59,7 +59,7 @@
   <table width="100%">
     <!-- ✅ FIXED VERSION (complete + balanced + GitHub-safe) -->
 <tr>
-  <td width="50%" valign="top" align="center">
+  <td width="50%" valign="center" align="center">
     <h3>🗂️ Kanban Task Board</h3>
     <img
       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR6eXZ6enU1bXN2NDBqd3E5anA0cXExdTlyZDNxOW1hOTU1ZDM1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"
