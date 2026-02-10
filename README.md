@@ -1,9 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm Luisa  
-### 🎓 BSIT Student • 🖥️ Full-Stack Developer • 🎨 Multimedia Artist  
-#### 📍 Philippines
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Luwisa&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient" />
+
+  <h3>BSIT Student • Full-Stack Web Developer • Multimedia Artist</h3>
+  <h4>📍 Philippines</h4>
+
+  <p>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/luisa-dala-b53341132" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/Fwessa" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+  
 <br/>
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/luisa-dala-b53341132" target="_blank">
