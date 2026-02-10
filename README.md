@@ -1,14 +1,11 @@
-# 👋 Hi, I'm Luisa
-
-### 🎓 BSIT Student • 🖥️ Full-Stack Web Developer • 🎨 Multimedia Artist 
-#### 📍 Philippines
-
+<h1 align="center">Hi 👋, I'm Luwisa</h1>
+<h3 align="center">BSIT Student • Full-Stack Web Developer • Multimedia Artist</h3>
+<h4 align="center">📍 Philippines</h4>
 ---
 
 ## 🌟 About Me
-I'm a **BSIT student** specializing in **Multimedia Arts and Animation** with a passion for **full-stack web development**. I build practical applications using **Vue 3** on the frontend and **Django + Django REST Framework** on the backend, focusing on **clean UI**, **RESTful APIs**, and **JWT-based authentication**.
-
-I love creating **visually appealing** and **functional applications** that solve real-world problems, blending my technical skills with artistic creativity.
+I’m a BSIT student specializing in **Multimedia Arts and Animation** with a strong interest in **full-stack web development**.  
+I enjoy learning through hands-on projects, solving real development problems, and understanding how frontend and backend systems work together to create functional, user-friendly applications.
 
 ---
 
