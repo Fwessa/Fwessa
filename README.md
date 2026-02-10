@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Luwisa&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Luisa&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient" /> 
   <h3>BSIT Student • Full-Stack Web Developer • Multimedia Artist</h3> <h4>📍 Philippines</h4> 
 
 <br/>
