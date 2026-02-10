@@ -57,39 +57,42 @@
 
 <div align="center">
   <table width="100%">
-    <tr>
-      <td width="50%" valign="top" align="center">
-        <h3>🗂️ Kanban Task Board</h3>
-        <img
-          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR6eXZ6enU1bXN2NDBqd3E5anA0cXExdTlyZDNxOW1hOTU1ZDM1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"
-          width="100%"
-          style="max-width:520px;border-radius:14px;"
-        />
-      </td>
+    <!-- ✅ FIXED VERSION (complete + balanced + GitHub-safe) -->
+<tr>
+  <td width="50%" valign="top" align="center">
+    <h3>🗂️ Kanban Task Board</h3>
+    <img
+      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR6eXZ6enU1bXN2NDBqd3E5anA0cXExdTlyZDNxOW1hOTU1ZDM1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"
+      width="100%"
+      style="max-width:520px;"
+      alt="Kanban demo"
+    />
+  </td>
 
-      <td width="50%" valign="top">
-        <p>
-          A <b>drag-and-drop task management system</b> built with <b>Vue 3 + Django REST Framework</b>.
-          Includes <b>JWT authentication</b>, responsive UI, and smooth UX for organizing tasks.
-        </p>
+  <td width="50%" valign="top">
+    <p>
+      A <b>drag-and-drop task management system</b> built with <b>Vue 3 + Django REST Framework</b>.
+      Includes <b>JWT authentication</b>, responsive UI, and smooth UX for organizing tasks.
+    </p>
 
-        <p><b>Highlights</b></p>
-        <ul>
-          <li>Drag & drop Kanban columns</li>
-          <li>JWT login + protected routes</li>
-          <li>RESTful API integration</li>
-          <li>Clean, responsive layout</li>
-        </ul>
+  <p><b>Highlights</b></p>
+  <ul>
+    <li>Drag &amp; drop Kanban columns</li>
+    <li>JWT login + protected routes</li>
+    <li>RESTful API integration</li>
+    <li>Clean, responsive layout</li>
+  </ul>
 
-        <p><b>Tech Stack:</b> Vue 3 • Django • PostgreSQL • JWT Auth • PrimeVue</p>
+  <p><b>Tech Stack:</b> Vue 3 • Django • PostgreSQL • JWT Auth • PrimeVue</p>
 
-        <p>
-          <a href="https://github.com/Fwessa/DjangoREST-API-Vue_KabanDraggable_TaskBoard" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
+  <p>
+    <a href="https://github.com/Fwessa/DjangoREST-API-Vue_KabanDraggable_TaskBoard" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </p>
+  </td>
+</tr>
+
   </table>
 </div>
 
