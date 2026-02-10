@@ -1,11 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+Luisa" />
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Luwisa&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient" /> 
+  <h3>BSIT Student • Full-Stack Web Developer • Multimedia Artist</h3> <h4>📍 Philippines</h4> 
 
-  <h3>BSIT Student • Full-Stack Web Developer • Multimedia Artist</h3>
-  <h4>📍 Philippines</h4>
-
-</div>
+<br/>
 
 
 <a href="https://www.linkedin.com/in/luisa-dala-b53341132" target="_blank">
