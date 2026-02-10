@@ -70,7 +70,7 @@
     />
   </td>
 
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" margin-top="20px">
     <p>
       A <b>drag-and-drop task management system</b> built with <b>Vue 3 + Django REST Framework</b>.
       Includes <b>JWT authentication</b>, responsive UI, and smooth UX for organizing tasks.
