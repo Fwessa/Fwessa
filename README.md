@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luwisa</h1>
-<h3 align="center">BSIT Student • Multimedia Arts & Animation • Full-Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Luisa</h1>
+<h3 align="center">BSIT Student • Full-Stack Web Developer • Multimedia Artist </h3>
 <h4 align="center">📍 Philippines</h4>
 
 ---
@@ -20,69 +20,79 @@ I enjoy learning through hands-on projects, solving real development problems, a
 </p>
 
 ---
-
 ## 🧩 Languages & Tools
 
-### 🎨 Frontend Development
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<table>
+<tr>
+
+<td valign="top" width="20%">
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
 
----
+</td>
 
-### 🛠 Backend Development
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<td valign="top" width="20%">
+
+### 🛠 Backend
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 </p>
 
----
+</td>
+
+<td valign="top" width="20%">
 
 ### 🗄 Databases
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 </p>
 
----
+</td>
 
-### 🧪 Data & Analytics
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<td valign="top" width="20%">
+
+### 🧪 Data
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 </p>
 
----
+</td>
 
-### ⚙️ DevOps & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<td valign="top" width="20%">
+
+### 🎨 Design & Tools
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/><br/>
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/><br/>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
----
+</td>
 
-### 🎨 Design & 3D
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-</p>
-
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
