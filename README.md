@@ -1,13 +1,12 @@
 <div align="center">
 
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Luwisa&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+Luisa" />
 
   <h3>BSIT Student • Full-Stack Web Developer • Multimedia Artist</h3>
   <h4>📍 Philippines</h4>
-  
-<br/>
+
+</div>
+
 
 <a href="https://www.linkedin.com/in/luisa-dala-b53341132" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +14,7 @@
 <a href="https://github.com/Fwessa" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#" target="https://lnkd.in/g9Xu2pgi">
+<a href="#" target="https://www.behance.net/luisatdala">
   <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:luisat.dala@gmail.com">
