@@ -157,9 +157,8 @@ Includes **JWT authentication**, responsive UI, and smooth UX for organizing tas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fwessa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9" /><br/>
 <img src="https://streak-stats.demolab.com?user=Fwessa&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fwessa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
+
 
 </div>
 
