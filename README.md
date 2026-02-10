@@ -59,7 +59,8 @@
   <table width="100%">
     <!-- ✅ FIXED VERSION (complete + balanced + GitHub-safe) -->
 <tr>
-  <td width="50%" valign="center" align="center">
+  <!-- LEFT: GIF / IMAGE -->
+  <td width="50%" valign="top" align="center">
     <h3>🗂️ Kanban Task Board</h3>
     <img
       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR6eXZ6enU1bXN2NDBqd3E5anA0cXExdTlyZDNxOW1hOTU1ZDM1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"
@@ -69,14 +70,16 @@
     />
   </td>
 
-  <td width="50%" valign="top">
+  <!-- RIGHT: CENTERED TEXT -->
+  <td width="50%" valign="top" align="center">
     <p>
       A <b>drag-and-drop task management system</b> built with <b>Vue 3 + Django REST Framework</b>.
       Includes <b>JWT authentication</b>, responsive UI, and smooth UX for organizing tasks.
     </p>
 
   <p><b>Highlights</b></p>
-  <ul>
+
+  <ul style="list-style-position: inside; padding-left: 0; margin: 0 auto; text-align: center;">
     <li>Drag &amp; drop Kanban columns</li>
     <li>JWT login + protected routes</li>
     <li>RESTful API integration</li>
@@ -87,11 +90,15 @@
 
   <p>
     <a href="https://github.com/Fwessa/DjangoREST-API-Vue_KabanDraggable_TaskBoard" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      <img
+        src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
+        alt="View Project"
+      />
     </a>
   </p>
   </td>
 </tr>
+
 
   </table>
 </div>
