@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:7C3AED,100:DB2777&amp;height=230&amp;section=header&amp;text=Hello%2C%20I%20am%20Luisa!&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=CODE%20%20%2B%20%20CREATIVITY%20%20%2B%20%20CURIOSITY&amp;descSize=16&amp;descAlignY=59&amp;animation=twinkling" width="100%" alt="Hello, I am Luisa! Code + creativity + curiosity." />
@@ -31,8 +29,8 @@ Manila, Philippines 🇵🇭 · Building useful things with a creative touch.
 </a>
 
 <p>
-  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;line_height=20&amp;card_width=400&amp;custom_title=Luisa%27s%20GitHub%20Stats&amp;disable_animations=false" width="400" height="165" align="top" alt="Luisa's live GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
-  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fwessa&amp;langs_count=20&amp;layout=compact&amp;hide_progress=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;text_color=EDE9FE&amp;card_width=400&amp;custom_title=Languages%20I%20Use&amp;disable_animations=false" width="400" height="165" align="top" alt="Languages used across Luisa's public GitHub repositories" /></a>
+  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;hide=issues&amp;line_height=29&amp;card_width=400&amp;custom_title=Luisa%27s%20GitHub%20Stats&amp;disable_animations=false" width="400" height="190" align="top" alt="Luisa's live GitHub statistics: stars, commits, pull requests, and contributions" /></a>
+  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fwessa&amp;langs_count=20&amp;layout=compact&amp;hide_progress=false&amp;stats_format=percentages&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;text_color=EDE9FE&amp;card_width=400&amp;custom_title=Languages%20by%20Usage&amp;disable_animations=false" width="400" height="190" align="top" alt="Luisa's public repository languages ranked by code size, highest percentage first" /></a>
 </p>
 
 <sub>A little progress, one commit at a time. 🌱</sub>
@@ -66,7 +64,7 @@ A little corner of the web that's very me: a responsive portfolio with animated 
 
 `React` · `Vite` · `JavaScript` · `Tailwind CSS`
 
-[Visit my portfolio →](https://luisa-dala.vercel.app/) · [Explore the repository](https://github.com/Fwessa/my-portfolio)
+[Visit my portfolio →](https://luisa-dala.vercel.app/)
 
 ## 💻 My toolkit
 
@@ -85,6 +83,7 @@ Turning “what if it looked like this?” into something you can actually click
 <p>
   <img src="https://img.shields.io/badge/Vue.js-1E1B4B?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1E1B4B?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-1E1B4B?style=for-the-badge&amp;logo=css&amp;logoColor=BAA4FF" alt="CSS" />
