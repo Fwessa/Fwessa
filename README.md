@@ -15,11 +15,28 @@ Manila, Philippines 🇵🇭 · Building useful things with a creative touch.
   <a href="mailto:luisat.dala@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1E1B4B" alt="Email Luisa" /></a>
 </p>
 
-[About me](#-a-little-about-me) · [Selected work](#-things-ive-been-building) · [Toolkit](#-my-toolkit) · [Stats & streak](#-the-commit-arcade) · [Side quests](#-current-side-quests)
+[Stats & streak](#-the-commit-arcade) · [About me](#-a-little-about-me) · [Selected work](#-things-ive-been-building) · [Toolkit](#-my-toolkit)
 
 </div>
 
 ---
+
+## 🎮 The commit arcade
+
+<div align="center">
+
+<a href="https://github.com/Fwessa?tab=overview">
+  <img src="https://streak-stats.demolab.com/?user=Fwessa&amp;hide_border=true&amp;border_radius=0&amp;card_width=820&amp;card_height=170&amp;background=1E1B4B&amp;ring=E879F9&amp;fire=F472B6&amp;currStreakNum=FFFFFF&amp;sideNums=EDE9FE&amp;currStreakLabel=F0ABFC&amp;sideLabels=EDE9FE&amp;dates=C4B5FD&amp;stroke=6D28D9&amp;disable_animations=false" width="820" alt="Luisa's GitHub contribution streak: total contributions, current streak, and longest streak" />
+</a>
+
+<p>
+  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;card_width=400&amp;custom_title=Luisa%27s%20GitHub%20Stats&amp;disable_animations=false" width="400" align="top" alt="Luisa's live GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
+  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fwessa&amp;langs_count=3&amp;layout=compact&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;text_color=EDE9FE&amp;card_width=400&amp;custom_title=Top%203%20Languages&amp;disable_animations=false" width="400" align="top" alt="Luisa's three most used languages across public GitHub repositories" /></a>
+</p>
+
+<sub>A little progress, one commit at a time. 🌱</sub>
+
+</div>
 
 ## ✨ A little about me
 
@@ -34,15 +51,7 @@ Hi, I'm **Luisa T. Dala**, also known as **Fwessa** here on GitHub. I bring toge
 
 ## 🚀 Things I've been building
 
-### 🗂️ Kanban Task Board
-
-A drag-and-drop task board built with **Vue 3 + Django REST Framework**. Move tasks between columns, keep work organized, and connect a responsive interface to a REST API with JWT authentication.
-
-`Vue 3` · `PrimeVue` · `Django REST Framework` · `PostgreSQL` · `JWT`
-
-[Explore the repository →](https://github.com/Fwessa/DjangoREST-API-Vue_KabanDraggable_TaskBoard)
-
-### 🥘 Bahay Kubo: Cookery Simulator
+### 🥘 Bahay Kubo · Capstone Project
 
 A **3D mobile cookery simulator** developed as a capstone project to support Grade 9 TLE-HE learning. A project where software, education, and creativity came together.
 
@@ -50,13 +59,13 @@ A **3D mobile cookery simulator** developed as a capstone project to support Gra
 
 [Visit the project website →](https://bahay-kubo-app-website.vercel.app/) · The website introduces the mobile simulator.
 
-### ⚙️ Internal tools & workflow improvements
+### 💜 My Portfolio
 
-Contributing to ticketing and chat support workflows, SOP management, and application testing. I enjoy turning day-to-day friction into clearer screens, better processes, and more useful tools.
+A little corner of the web that's very me: a responsive portfolio with animated introductions, project case studies, and a playful purple palette. Built to bring my development work and creative side together.
 
-`Applied AI` · `Workflow planning` · `UI/UX` · `QA & regression testing`
+`React` · `Vite` · `JavaScript` · `Tailwind CSS`
 
-[Browse more of my public work →](https://github.com/Fwessa?tab=repositories)
+[Visit my portfolio →](https://luisa-dala.vercel.app/) · [Explore the repository](https://github.com/Fwessa/my-portfolio)
 
 ## 💻 My toolkit
 
@@ -115,44 +124,6 @@ Make it work. Make it feel good. Find the bug hiding behind that one button.
 - **Creative tools:** Adobe Illustrator, Photoshop, and Unity.
 - **Development tools:** GitLab and VS Code.
 - **AI-assisted workflows:** Claude, Codex, Base44, and Lovable.
-
-</details>
-
-## 🎮 The commit arcade
-
-<div align="center">
-
-**Little commits. Long-running curiosity.**
-
-<a href="https://github.com/Fwessa?tab=repositories">
-  <img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=16&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;card_width=495&amp;disable_animations=false" width="495" alt="Luisa's live GitHub statistics: stars, commits, pull requests, issues, and contributions" />
-</a>
-
-<a href="https://github.com/Fwessa?tab=overview">
-  <img src="https://streak-stats.demolab.com/?user=Fwessa&amp;hide_border=true&amp;border_radius=16&amp;background=1E1B4B&amp;ring=E879F9&amp;fire=F472B6&amp;currStreakNum=FFFFFF&amp;sideNums=EDE9FE&amp;currStreakLabel=F0ABFC&amp;sideLabels=EDE9FE&amp;dates=C4B5FD&amp;stroke=6D28D9&amp;disable_animations=false" width="495" alt="Luisa's GitHub contribution streak: total contributions, current streak, and longest streak" />
-</a>
-
-<sub>Powered by real GitHub activity. Every little bit of progress counts. 🌱</sub>
-
-[Explore the code behind the cards →](https://github.com/Fwessa?tab=repositories)
-
-</div>
-
-## 🌱 Current side quests
-
-- Making Vue and React interfaces feel clearer and more intuitive.
-- Going deeper with Django REST Framework, database design, and API integration.
-- Exploring Docker, WebSockets, and real-time application patterns.
-- Building better testing habits and practical automation workflows.
-
-<details>
-<summary><b>☕ A little more human, a little less README</b></summary>
-
-I like making digital illustrations and 3D models, figuring out why something broke, and finding the small design change that makes an interface click.
-
-Coffee helps. Curiosity does most of the work.
-
-**The usual loop:** imagine → build → test → refine → another cup.
 
 </details>
 
