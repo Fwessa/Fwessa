@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:7C3AED,100:DB2777&amp;height=230&amp;section=header&amp;text=Hello%2C%20I%20am%20Luisa!&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=CODE%20%20%2B%20%20CREATIVITY%20%20%2B%20%20CURIOSITY&amp;descSize=16&amp;descAlignY=59&amp;animation=twinkling" width="100%" alt="Hello, I am Luisa! Code + creativity + curiosity." />
@@ -30,8 +31,8 @@ Manila, Philippines 🇵🇭 · Building useful things with a creative touch.
 </a>
 
 <p>
-  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;card_width=400&amp;custom_title=Luisa%27s%20GitHub%20Stats&amp;disable_animations=false" width="400" align="top" alt="Luisa's live GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
-  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fwessa&amp;langs_count=3&amp;layout=compact&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;text_color=EDE9FE&amp;card_width=400&amp;custom_title=Top%203%20Languages&amp;disable_animations=false" width="400" align="top" alt="Luisa's three most used languages across public GitHub repositories" /></a>
+  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;line_height=20&amp;card_width=400&amp;custom_title=Luisa%27s%20GitHub%20Stats&amp;disable_animations=false" width="400" height="165" align="top" alt="Luisa's live GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
+  <a href="https://github.com/Fwessa?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fwessa&amp;langs_count=20&amp;layout=compact&amp;hide_progress=true&amp;hide_border=true&amp;border_radius=0&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;text_color=EDE9FE&amp;card_width=400&amp;custom_title=Languages%20I%20Use&amp;disable_animations=false" width="400" height="165" align="top" alt="Languages used across Luisa's public GitHub repositories" /></a>
 </p>
 
 <sub>A little progress, one commit at a time. 🌱</sub>
