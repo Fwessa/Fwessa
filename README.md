@@ -1,15 +1,9 @@
-<!-- PROFILE README: copy this entire file into README.md in your public Fwessa/Fwessa repository.
-     This file is separate from the portfolio project's README.md.
-     Animations and badges are hosted images; no scripts, tokens, or Actions setup needed.
-     Image services: https://github.com/kyechan99/capsule-render
-     https://github.com/DenverCoder1/readme-typing-svg and https://shields.io/
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:7C3AED,100:DB2777&amp;height=230&amp;section=header&amp;text=Hello%2C%20I%20am%20Luisa!&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=CODE%20%20%2B%20%20CREATIVITY%20%20%2B%20%20CURIOSITY&amp;descSize=16&amp;descAlignY=59&amp;animation=fadeIn" width="100%" alt="Hello, I am Luisa! Code + creativity + curiosity." />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:7C3AED,100:DB2777&amp;height=230&amp;section=header&amp;text=Hello%2C%20I%20am%20Luisa!&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=CODE%20%20%2B%20%20CREATIVITY%20%20%2B%20%20CURIOSITY&amp;descSize=16&amp;descAlignY=59&amp;animation=twinkling" width="100%" alt="Hello, I am Luisa! Code + creativity + curiosity." />
 
-### Applied AI &amp; Full-Stack Engineer · Multimedia Creative
+### Full-Stack Web Developer · Multimedia Creative
 
 Manila, Philippines 🇵🇭 · Building useful things with a creative touch.
 
@@ -21,7 +15,7 @@ Manila, Philippines 🇵🇭 · Building useful things with a creative touch.
   <a href="mailto:luisat.dala@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1E1B4B" alt="Email Luisa" /></a>
 </p>
 
-[About me](#-a-little-about-me) · [Selected work](#-things-ive-been-building) · [Toolkit](#-my-toolkit) · [Side quests](#-current-side-quests)
+[About me](#-a-little-about-me) · [Selected work](#-things-ive-been-building) · [Toolkit](#-my-toolkit) · [Stats & streak](#-the-commit-arcade) · [Side quests](#-current-side-quests)
 
 </div>
 
@@ -66,7 +60,17 @@ Contributing to ticketing and chat support workflows, SOP management, and applic
 
 ## 💻 My toolkit
 
-**Interfaces**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2400&amp;pause=1200&amp;color=C026D3&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=65&amp;lines=Choose+your+tools.+Start+the+quest.;Pixels%2C+Python%2C+and+possibilities.;Build.+Debug.+Coffee.+Repeat." width="480" alt="Choose your tools. Start the quest. Pixels, Python, and possibilities. Build, debug, coffee, repeat." />
+
+<sub>My developer inventory — a little logic, a little color, a lot of curiosity.</sub>
+
+</div>
+
+### 🎨 The pixel playground
+
+Turning “what if it looked like this?” into something you can actually click.
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-1E1B4B?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" />
@@ -77,7 +81,9 @@ Contributing to ticketing and chat support workflows, SOP management, and applic
   <img src="https://img.shields.io/badge/Tailwind_CSS-1E1B4B?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 
-**APIs & data**
+### 🧠 The engine room
+
+Where the data lives, the APIs connect, and the magic has error handling.
 
 <p>
   <img src="https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&amp;logo=python&amp;logoColor=FCD34D" alt="Python" />
@@ -88,7 +94,9 @@ Contributing to ticketing and chat support workflows, SOP management, and applic
   <img src="https://img.shields.io/badge/Supabase-1E1B4B?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-**Quality & creativity**
+### 🪄 The polish & bug patrol
+
+Make it work. Make it feel good. Find the bug hiding behind that one button.
 
 <p>
   <img src="https://img.shields.io/badge/Vitest-1E1B4B?style=for-the-badge&amp;logo=vitest&amp;logoColor=A3E635" alt="Vitest" />
@@ -109,6 +117,26 @@ Contributing to ticketing and chat support workflows, SOP management, and applic
 - **AI-assisted workflows:** Claude, Codex, Base44, and Lovable.
 
 </details>
+
+## 🎮 The commit arcade
+
+<div align="center">
+
+**Little commits. Long-running curiosity.**
+
+<a href="https://github.com/Fwessa?tab=repositories">
+  <img src="https://github-stats-extended.vercel.app/api?username=Fwessa&amp;show_icons=true&amp;hide_border=true&amp;border_radius=16&amp;bg_color=1E1B4B&amp;title_color=F0ABFC&amp;icon_color=F472B6&amp;text_color=EDE9FE&amp;hide_rank=true&amp;card_width=495&amp;disable_animations=false" width="495" alt="Luisa's live GitHub statistics: stars, commits, pull requests, issues, and contributions" />
+</a>
+
+<a href="https://github.com/Fwessa?tab=overview">
+  <img src="https://streak-stats.demolab.com/?user=Fwessa&amp;hide_border=true&amp;border_radius=16&amp;background=1E1B4B&amp;ring=E879F9&amp;fire=F472B6&amp;currStreakNum=FFFFFF&amp;sideNums=EDE9FE&amp;currStreakLabel=F0ABFC&amp;sideLabels=EDE9FE&amp;dates=C4B5FD&amp;stroke=6D28D9&amp;disable_animations=false" width="495" alt="Luisa's GitHub contribution streak: total contributions, current streak, and longest streak" />
+</a>
+
+<sub>Powered by real GitHub activity. Every little bit of progress counts. 🌱</sub>
+
+[Explore the code behind the cards →](https://github.com/Fwessa?tab=repositories)
+
+</div>
 
 ## 🌱 Current side quests
 
